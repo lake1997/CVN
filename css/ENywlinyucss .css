@@ -1,0 +1,249 @@
+.ENywzhuye{
+				/*background-color: #f5f5f5;*/
+				margin: auto;
+				max-width: 1200px;
+				height: 1400px;
+			}
+.ENairlift{
+	width: 100%;
+	height: 400px;
+	/*background-color: beige;*/
+	margin-top: 100px;
+}
+.ENairliftzuo{
+	width: 50%;
+	height: 400px;
+	margin: 0;
+	/*background-color: brown;*/
+	float: left;
+	margin-left: 40px;
+	margin-top: 50PX;
+}
+.ENairliftyou{
+	width: 40%;
+	height: 400px;
+	margin: 0;
+	/*background-color: aqua;*/
+	float: right;
+	margin-left: 0;
+	overflow: hidden;
+}
+.ENairliftyou img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	border-radius: 8px;
+	}
+
+.ENshipping{
+	width: 100%;
+	height: 400px;
+	/*background-color: burlywood;*/
+	margin-top: 50px;
+}
+
+.ENshippingzuo{
+	width: 40%;
+	height: 400px;
+	margin: 0;
+	/*background-color: cadetblue;*/
+	float: left;
+	margin-left: 25px;
+}
+.ENshippingzuo img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	border-radius: 8px;
+	
+	}
+.ENshippingyou{
+	width: 50%;
+	height: 400px;
+	margin: 0;
+	/*background-color: aqua;*/
+	float: right;
+	margin-left: 0;
+	overflow: hidden;
+	margin-left: 40px;
+	margin-top: 50PX;
+	margin-right: 40px;
+}
+
+.ENexpress{
+	width: 100%;
+	height: 400px;
+	/*background-color: burlywood;*/
+	margin-top: 60px;
+}
+.ENxpresszuo{
+	width: 50%;
+	height: 400px;
+	margin: 0;
+	/*background-color: cadetblue;*/
+	float: left;
+	margin-left: 40px;
+	margin-top: 50px;
+	margin-right: 40px;
+}
+.ENexpressyou{
+		width: 40%;
+		height: 400px;
+		margin: 0;
+		/*background-color: aqua;*/
+		float: right;
+		margin-left: 0;
+		overflow: hidden;
+	}
+.ENexpressyou img{
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		border-radius: 8px;
+		}
+		.ENairliftzuo h6{
+			/*text-align: center;*/
+		}
+		
+		@media (max-width: 768px) {
+								.ENywzhuye{
+									/*background-color: chocolate;*/
+									margin: auto;
+									/*max-width: 768px;*/
+									height: 1830px;
+									margin-left: 10px;
+									margin-right: 10px;
+								}
+			
+			.ENairlift{
+				width: 100%;
+				height: 380px;
+				/*background-color: beige;*/
+				/*margin-top: 100px;*/
+			}
+			.ENairliftzuo{
+				width: 100%;
+				height: 50%;
+				margin: 0;
+				/*background-color: brown;*/
+				/*float: left;*/
+				/*
+				/*margin-right: 40px;*/
+				/*margin-top: 50PX;*/
+			}
+			.ENairliftyou{
+				width: 100%;
+				height: 60%;
+				margin: 0;
+				/*background-color: aqua;*/
+				/*float: right;*/
+				overflow: hidden;
+				margin-top: 190px;
+				margin-bottom: 20PX;
+			}
+			.ENairliftyou img{
+				width: 100%;
+				height: 90%;
+				object-fit: cover;
+				border-radius: 8px;
+				}
+			
+			.ENshipping{
+				width: 100%;
+				height: 400px;
+				/*background-color: burlywood;*/
+				/*margin-top: 50px;*/
+			}
+			
+			.ENshippingzuo{
+				/*width: 100%;
+				height: 200px;
+				margin: 0;*/
+				/*background-color: cadetblue;*/
+				/*float: left;*/
+				display: none;
+			}
+			
+			.ENshippingzuo img{
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				border-radius: 8px;
+				margin-top: 1px;
+				display: none;
+				
+				}
+				.ENyinchang{
+					width: 100%;
+					height: 200px;
+					margin: 0;
+					margin-top: 20px;
+				}
+				.ENyinchang img{
+								width: 100%;
+								height: 100%;
+								object-fit: cover;
+								border-radius: 8px;
+								margin-top: 1px;}
+			.ENshippingyou{
+				width: 100%;
+				height: 100%;
+				margin: 0;
+				/*background-color: aqua;*/
+				/*float: right;*/
+				overflow: hidden;
+				/*margin-left: 80px;*/
+				margin-top: 0PX;
+				/*margin-right: 40px;*/
+			}
+			
+			.ENexpress{
+				width: 100%;
+				height: 40px;
+				/*background-color: burlywood;*/
+				margin-top: 400px;
+			}
+			.ENxpresszuo{
+				width: 100%;
+				height: 320px;
+				margin: 0;
+				/*background-color: cadetblue;*/
+				float: left;
+				/*margin-left: 40px;*/
+				margin-top: 30px;
+				/*margin-right: 40px;*/
+			}
+			.ENexpressyou{
+					width: 100%;
+					height: 200px;
+					margin: 0;
+					/*background-color: aqua;*/
+					/*float: right;*/
+					margin-left: 0;
+					overflow: hidden;
+					margin-top: 20PX;
+				}
+			.ENexpressyou img{
+					width: 100%;
+					height: 100%;
+					object-fit: cover;
+					border-radius: 8px;
+					}
+					.airliftzuo h6{
+						/*text-align: center;*/
+					}
+					
+		}
+		@media (min-width: 768px){
+		.ENyinchang{
+			width: 100%;
+			height: 200px;
+			margin: 0;
+			display: none;
+		}
+		.ENyinchang img{
+						width: 100%;
+						height: 100%;
+						object-fit: cover;
+						border-radius: 8px;
+						margin-top: 1px;}
